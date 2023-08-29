@@ -1,0 +1,5 @@
+,Parameters,Stage 1,Stage 2,Stage 3,Stage 4,Stage 5,Stage 6
+0,"Start-end time, sec",10,230,586,716,830,1626
+1,"Start-end time, sec",226,580,710,826,1620,1790
+2,"Time length, sec",215.0,350.0,125.0,110.0,790.0,165.0
+3,Number of epochs,44,71,26,23,159,34
